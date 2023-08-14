@@ -6,4 +6,5 @@ Login>
 Register>
 Forgot password
 
+Contact us hello@metis.com
 --Logo--
